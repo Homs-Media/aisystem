@@ -2,3 +2,4 @@ llamaapi
 google-generativeai
 openai
 flask
+gunicorn
