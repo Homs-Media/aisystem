@@ -140,4 +140,4 @@ def gpt_page() :
     return getAnswerFromGpt4(text)
 
 
-app.run()
+app.run(debug=True)
