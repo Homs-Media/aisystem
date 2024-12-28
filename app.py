@@ -139,6 +139,3 @@ def gpt_page() :
     # عرض الناتج
     return getAnswerFromGpt4(text)
     
-
-# تشغيل التطبيق
-app.run()
