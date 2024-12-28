@@ -138,4 +138,6 @@ def gpt_page() :
   
     # عرض الناتج
     return getAnswerFromGpt4(text)
-    
+
+
+app.run()
